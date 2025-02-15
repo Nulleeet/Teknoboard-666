@@ -11,5 +11,5 @@ Teknoboard 666 ANSI edition2\
 Teknoboard 666 ISO V1\
 ![Alt text](ISO/teknoboard666_ISO.png?raw=true "Teknoboard ISO V1")
 
-Teknoboard 666 ANSI V2\
+Teknoboard 666 ISO V2\
 ![Alt text](ISO/teknoboard666_ISO_v2.png?raw=true "Teknoboard ANSI edition2")
